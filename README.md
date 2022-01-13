@@ -1,6 +1,10 @@
 DEMO: https://react-video-search-five.vercel.app/
 
 
+As the description suggests, the original design was done by Stephen Grider and was part of a Modern React with Redux
+Master course which I highly recommend. https://www.udemy.com/course/react-redux/ 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
