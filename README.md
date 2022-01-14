@@ -1,4 +1,4 @@
-DEMO: https://react-video-search-five.vercel.app/
+DEMO: https://video-react-hooks.vercel.app/
 
 
 As the description suggests, the original design was done by Stephen Grider and was part of a Modern React with Redux
